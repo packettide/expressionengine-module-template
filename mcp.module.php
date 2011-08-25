@@ -1,14 +1,14 @@
 <?php if( ! defined('BASEPATH')) exit('No direct script access allowed');
 
-class module_mcp
+class Module_mcp
 {
 	private $data = array();
-	
+
 	public function __construct()
 	{
 		$this->EE =& get_instance();
 	}
-	
+
 	public function index()
 	{
 		// Set page title

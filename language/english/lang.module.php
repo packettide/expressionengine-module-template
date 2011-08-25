@@ -9,7 +9,7 @@ $lang = array(
 
 // Additional Key => Value pairs go here
 
-
+'module_lang_var' => 'Some text',
 
 // END
 '' => ''
