@@ -9,7 +9,10 @@ $lang = array(
 
 // Additional Key => Value pairs go here
 
-'module_lang_var' => 'Some text',
+'module_nav_home' => 'Home',
+'module_nav_settings' => 'Settings',
+
+'module_page_title_settings' => 'Settings',
 
 // END
 '' => ''
